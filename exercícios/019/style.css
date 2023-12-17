@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+    color: rgb(4, 102, 69);
+    background-color: black;
+}
+ #principal{
+    color: blue;
+}
+h1{
+    color: rgb(255, 0, 242);
+}
+.intermediario{
+    color: blanchedalmond;
+}
+.avançado{
+    color: black;
+}
